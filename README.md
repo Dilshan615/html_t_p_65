@@ -6,7 +6,7 @@
 <div>
     <h1 align="center">The final look</h1>
     <div align="center">
-        <img src="404 Error.png">
+        <img src="404 Errorc.png">
     </div>
 </div>
 <br />
